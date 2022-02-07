@@ -39,7 +39,8 @@ db_port
 Logfilename
 ```
 
-
+## Program execution
+Copy the Python file BTC_Price_Vol.py to the python environment and run the file. The table ```BTC_Price_variation holding``` BTC price variation data and the table ```BTC_Price_variation_agg``` holding the daily price volatility metric will be created in the database.
 
 
 
